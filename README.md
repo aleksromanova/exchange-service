@@ -14,6 +14,8 @@ java -jar target/exchange-service-1.0.jar
 ```
 Application will start on <localhost:8080>
 
+Initial data(user and assets) is being created with ***resources/data.sql*** file.
+
 ## Swagger
 
 Swagger documentation would be available on <localhost:8080/swagger-ui/index.html>
